@@ -1,2 +1,3 @@
 # DataStructure-Algorithms
-Topics like Hash/Trie/Sorting Algorithm
+=> Topics ~  Hash/Trie/Sorting Algorithm
+=> A* Search Algorithm
